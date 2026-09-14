@@ -30,7 +30,7 @@ export const translations = {
     tools: "Tools",
 
     // Portfolio
-    latestProject: "Latest Project",
+    latestProject: "Projetos",
     liveDemo: "Live Demo",
     techUsed: "Tech Used:",
     project1Desc: "Personal AI assistant with real-time voice integration. Capable of automating tasks on Windows, managing files, controlling peripherals, and browsing the web autonomously via voice commands.",
@@ -38,6 +38,44 @@ export const translations = {
     livePreview: "Live Preview",
     project2Desc: "I made this demo just to see how powerful CSS 3D is, and got carried away... I was also curious to see if CSS works for making games (spoiler alert: not really).",
     moreProjects: "More Projects",
+
+    curiosityLabel: "Fun Fact: ",
+    
+    // Project - Jarvis
+    jarvisName: "J.A.R.V.I.S AI Assistant",
+    jarvisTag: "Featured",
+    jarvisDesc: "An intelligent personal assistant powered by the Gemini API capable of speaking, listening, processing files, taking screenshots, and answering questions in real-time.",
+    jarvisCuriosity: "I built this assistant combining the Google Calendar API and the Jarvis APIs that I also developed.",
+    
+    // Project - GTA I
+    gtaName: "GTA I CSS3D",
+    gtaTag: "CSS3D Visual",
+    gtaDesc: "A visual recreation of the classic GTA I using HTML and pure CSS3D to render the 3D perspective without using Canvas or WebGL.",
+    gtaCuriosity: "It's an experiment to test the limits of CSS 3D rendering. It simulates depth and camera angles purely with DOM elements.",
+    
+    // Project - Pacman
+    pacmanName: "Pacman JS",
+    pacmanTag: "Game Dev",
+    pacmanDesc: "A complete clone of the classic Pac-Man game, fully developed in JavaScript, HTML5 Canvas, and CSS.",
+    pacmanCuriosity: "The ghost's AI algorithms (Blinky, Pinky, Inky, and Clyde) mimic the exact behavior of the original arcade game.",
+
+    // Project - Conra
+    conraName: "Conra ActiveWear",
+    conraTag: "E-Commerce",
+    conraDesc: "A responsive e-commerce web platform for sportswear, with an attractive UI/UX and complete cart functionalities.",
+    conraCuriosity: "The entire frontend architecture was designed to simulate a real, high-performance shopping environment.",
+
+    // Project - Agatha
+    agathaName: "Agatha Diesel",
+    agathaTag: "Landing Page",
+    agathaDesc: "An institutional website developed to strengthen online presence and present corporate information with an attractive design.",
+    agathaCuriosity: "My main focus here was image optimization and loading speed, ensuring that the sophisticated look wouldn't weigh down the response time for users.",
+
+    // Project - AlunoBD
+    alunobdName: "CRUD Java AlunoBD",
+    alunobdTag: "Back-End",
+    alunobdDesc: "A simple Student CRUD system developed in native Java connected to a PostgreSQL database.",
+    alunobdCuriosity: "It was an essential project to practically understand the connection between a desktop application made in Java and a relational database (PostgreSQL) using JDBC.",
 
     // Contact
     contactTitle: "Contact Me!",
@@ -87,7 +125,7 @@ export const translations = {
     tools: "Ferramentas",
 
     // Portfolio
-    latestProject: "Últimos Projetos",
+    latestProject: "Projetos",
     liveDemo: "Demonstração",
     techUsed: "Tecnologias:",
     project1Desc: "Assistente de IA pessoal com integração de voz em tempo real. Capaz de automatizar tarefas no Windows, gerenciar arquivos, controlar periféricos e navegar na web de forma autônoma via comandos de voz.",
@@ -95,6 +133,44 @@ export const translations = {
     livePreview: "Ver Online",
     project2Desc: "Fiz esta demo só para ver o quanto o CSS 3D é poderoso, e acabei me empolgando... Também fiquei curioso para ver se CSS serve para fazer jogos (alerta de spoiler: não serve muito).",
     moreProjects: "Mais Projetos",
+
+    curiosityLabel: "Curiosidade: ",
+    
+    // Project - Jarvis
+    jarvisName: "J.A.R.V.I.S AI Assistant",
+    jarvisTag: "Destaque",
+    jarvisDesc: "Um assistente pessoal inteligente feito com a API do Gemini capaz de falar, ouvir, processar arquivos, tirar prints e responder perguntas em tempo real.",
+    jarvisCuriosity: "Eu construí este assistente juntando as APIs de agenda do Google e as do Jarvis que eu fiz também.",
+    
+    // Project - GTA I
+    gtaName: "GTA I CSS3D",
+    gtaTag: "Visual CSS3D",
+    gtaDesc: "Uma recriação visual do clássico GTA I utilizando HTML e puro CSS3D para renderizar a perspectiva 3D sem usar Canvas ou WebGL.",
+    gtaCuriosity: "É um experimento para testar os limites da renderização CSS 3D. Ele simula profundidade e ângulos de câmera puramente com elementos do DOM.",
+    
+    // Project - Pacman
+    pacmanName: "Pacman JS",
+    pacmanTag: "Game Dev",
+    pacmanDesc: "Um clone completo do clássico jogo Pac-Man, totalmente desenvolvido em JavaScript, HTML5 Canvas e CSS.",
+    pacmanCuriosity: "Os algoritmos de IA dos fantasmas (Blinky, Pinky, Inky e Clyde) imitam exatamente o comportamento do jogo original de arcade.",
+
+    // Project - Conra
+    conraName: "Conra ActiveWear",
+    conraTag: "E-Commerce",
+    conraDesc: "Uma plataforma web responsiva de e-commerce para roupas esportivas, com uma UI/UX atraente e funcionalidades de carrinho completas.",
+    conraCuriosity: "Toda a arquitetura do frontend foi projetada para simular um ambiente de compras real e de alta performance.",
+
+    // Project - Agatha
+    agathaName: "Agatha Diesel",
+    agathaTag: "Landing Page",
+    agathaDesc: "Um site institucional desenvolvido para reforçar a presença online e apresentar informações corporativas com um design atraente.",
+    agathaCuriosity: "Meu maior foco aqui foi a otimização de imagens e velocidade de carregamento, garantindo que o visual sofisticado não pesasse no tempo de resposta para os usuários.",
+
+    // Project - AlunoBD
+    alunobdName: "CRUD Java AlunoBD",
+    alunobdTag: "Back-End",
+    alunobdDesc: "Um sistema simples de CRUD de Alunos desenvolvido em Java nativo conectado a um banco de dados PostgreSQL.",
+    alunobdCuriosity: "Foi um projeto essencial para entender na prática a conexão entre uma aplicação desktop feita em Java e um banco de dados relacional (PostgreSQL) utilizando o JDBC.",
 
     // Contact
     contactTitle: "Contate-me!",
@@ -108,7 +184,7 @@ export const translations = {
 
     // Cookie
     sysNotif: "Notificação do Sistema",
-    cookieText: "Usamos cookies para melhorar sua experiência, rastrear preferências e analisar nosso tráfego. Ao clicar em \"Aceitar\", você concorda com o uso de cookies.",
+    cookieText: "Usamos cookies para melhorar sua experiência, rastrear preferências e analisar nosso tráfego. Ao clicar \"Aceitar\", você concorda com o uso de cookies.",
     reject: "Rejeitar",
     accept: "Aceitar",
 
